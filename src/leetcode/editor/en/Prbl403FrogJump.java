@@ -41,9 +41,10 @@
 // 👍 1467 👎 130
 
 package leetcode.editor.en;
+
 //java: Frog Jump
-public class Prbl403FrogJump{
-    public static void main(String[] args){
+public class Prbl403FrogJump {
+    public static void main(String[] args) {
         Solution solution = new Prbl403FrogJump().new Solution();
     }
     //leetcode submit region begin(Prohibit modification and deletion)
@@ -63,26 +64,23 @@ k:        0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
           7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
      */
 
-class Solution {
-    public boolean canCross(int[] stones) {
-        int N = stones.length;
-        boolean[][] dp = new boolean[N][N + 1];
-        dp[0][1] = true;
-
-        for(int i = 1; i < N; ++i){
-            for(int j = 0; j < i; ++j){
-                int diff = stones[i] - stones[j];
-                if(diff > N || !dp[j][diff]) continue;
-                dp[i][diff] = true;
-                if(diff - 1 > 0) dp[i][diff - 1] = true;
-                if(diff + 1 < N) dp[i][diff + 1] = true;
-                if(i == N - 1) return true;
+    class Solution {
+        public boolean canCross(int[] stones) {
+            int N = stones.length;
+            boolean[][] dp = new boolean[N][N + 1];
+            dp[0][1] = true;
+            for (int i = 1; i < N; ++i) {
+                for (int j = 0; j < i; ++j) {
+                    int diff = stones[i] - stones[j];
+                    if (diff > N || !dp[j][diff]) continue;
+                    dp[i][diff] = true;
+                    if (diff - 1 > 0) dp[i][diff - 1] = true;
+                    if (diff + 1 < N) dp[i][diff + 1] = true;
+                    if (i == N - 1) return true;
+                }
             }
+            return false;
         }
-
-        return false;
     }
-}
 //leetcode submit region end(Prohibit modification and deletion)
-
 }
