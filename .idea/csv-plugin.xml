@@ -3,6 +3,62 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="C:\Dev\Lang\OpenJDK\jdk-11.0.8+10\lib\src.zip!\java.base\java\util\PriorityQueue.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Dev\Lang\OpenJDK\jdk-11.0.8+10\lib\src.zip!\java.base\java\util\regex\Pattern.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\MijazzChan\AppData\Roaming\JetBrains\IntelliJIdea2020.2\consoles\db\caeb82bf-0977-4485-bfaa-0ac75fcd8a5d\console.sql">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl122BestTimeToBuyAndSellStockII.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl13RomanToInteger.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl215KthLargestElementInAnArray.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl26RemoveDuplicatesFromSortedArray.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl3LongestSubstringWithoutRepeatingCharacters.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl403FrogJump.java">
           <value>
             <Attribute>
@@ -10,10 +66,66 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl468ValidateIPAddress.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl88MergeSortedArray.java">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl1300BashWin.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl1Aplusb.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl283MaxOfThree.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl3ReverseInteger.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl426RestoreIpAddresses.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl478Calculator.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\lintcode\editor\cn\Prbl5KthLargestElement.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
