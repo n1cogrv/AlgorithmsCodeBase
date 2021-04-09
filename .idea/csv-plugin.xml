@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl14LongestCommonPrefix.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl206ReverseLinkedList.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl215KthLargestElementInAnArray.java">
           <value>
             <Attribute>
@@ -45,10 +59,31 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl242ValidAnagram.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl26RemoveDuplicatesFromSortedArray.java">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl344ReverseString.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl387FirstUniqueCharacterInAString.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
@@ -73,10 +108,31 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl485MaxConsecutiveOnes.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl70ClimbingStairs.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl88MergeSortedArray.java">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\UtilsTools.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
