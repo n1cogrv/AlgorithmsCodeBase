@@ -24,6 +24,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\README.md">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\make-commit.sh">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl122BestTimeToBuyAndSellStockII.java">
           <value>
             <Attribute>
