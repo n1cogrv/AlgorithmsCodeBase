@@ -23,12 +23,13 @@ done
 
 sort -k2n -t'|' ./table.temp >>./README.md
 
-git add -A
 column -t -s'|' ./table.temp
 
 if [ -f "./table.temp" ]; then
   rm "./table.temp"
 fi
+
+git add -A
 
 read -r -p "Commit? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]; then
