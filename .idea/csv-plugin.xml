@@ -52,10 +52,24 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl146LRUCache.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl14LongestCommonPrefix.java">
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl15ThreeSum.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
@@ -77,6 +91,13 @@
           <value>
             <Attribute>
               <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl25ReverseNodesInKGroup.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
@@ -126,6 +147,13 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl4MedianOfTwoSortedArrays.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>

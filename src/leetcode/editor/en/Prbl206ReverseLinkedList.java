@@ -39,17 +39,16 @@
 
 package leetcode.editor.en;
 
-import leetcode.editor.en.UtilsTools.ListNode;
+import xyz.mijazz.leetcode.utils.ListNode;
 
-import java.util.List;
 import java.util.logging.Logger;
 
 //java: Reverse Linked List
 public class Prbl206ReverseLinkedList {
-    private static final Logger logger = Logger.getLogger(Prbl206ReverseLinkedList.class.getName());
+    private static final Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
     public static void main(String[] args) {
         Solution solution = new Prbl206ReverseLinkedList().new Solution();
-        ListNode listNode = UtilsTools.buildListNodeFrom(new int[]{1, 2, 3, 4, 5});
+        ListNode listNode = ListNode.buildListNodeFrom(new int[]{1, 2, 3, 4, 5});
         logger.info(listNode.toString());
     }
     //leetcode submit region begin(Prohibit modification and deletion)

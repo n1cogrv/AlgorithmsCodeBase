@@ -27,11 +27,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/en/Prbl146LRUCache.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl146LRUCache.java" />
+              <option name="questionId" value="146" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/en/Prbl14LongestCommonPrefix.java">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl14LongestCommonPrefix.java" />
               <option name="questionId" value="14" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/en/Prbl15ThreeSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl15ThreeSum.java" />
+              <option name="questionId" value="15" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -80,6 +96,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl242ValidAnagram.java" />
               <option name="questionId" value="242" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/en/Prbl25ReverseNodesInKGroup.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl25ReverseNodesInKGroup.java" />
+              <option name="questionId" value="25" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -152,6 +176,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl485MaxConsecutiveOnes.java" />
               <option name="questionId" value="485" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/en/Prbl4MedianOfTwoSortedArrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/en/Prbl4MedianOfTwoSortedArrays.java" />
+              <option name="questionId" value="4" />
             </LeetcodeEditor>
           </value>
         </entry>
