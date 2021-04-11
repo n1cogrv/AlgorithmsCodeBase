@@ -73,6 +73,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl160IntersectionOfTwoLinkedLists.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl206ReverseLinkedList.java">
           <value>
             <Attribute>
@@ -81,6 +88,13 @@
           </value>
         </entry>
         <entry key="\src\leetcode\editor\en\Prbl215KthLargestElementInAnArray.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl21MergeTwoSortedLists.java">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -157,6 +171,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl53MaximumSubarray.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl70ClimbingStairs.java">
           <value>
             <Attribute>
@@ -224,6 +245,13 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\xyz\mijazz\leetcode\utils\MyMath.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
