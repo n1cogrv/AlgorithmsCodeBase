@@ -1,0 +1,19 @@
+Prbl${question.frontendQuestionId}$!velocityTool.camelCaseName(${question.title})
+
+package leetcode.editor.en;
+
+import java.util.logging.Logger;
+
+//$!velocityTool.date()
+//java: ${question.title}
+//QuestionId: ${question.frontendQuestionId}
+public class Prbl${question.frontendQuestionId}$!velocityTool.camelCaseName(${question.title}){
+    private static final Logger logger = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+    public static void main(String[] args){
+        Solution solution = new Prbl${question.frontendQuestionId}$!velocityTool.camelCaseName(${question.title})().new Solution();
+    }
+    ${question.code}
+}
+
+${question.content}
+
