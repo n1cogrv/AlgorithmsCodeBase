@@ -52,6 +52,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl142LinkedListCycleII.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl146LRUCache.java">
           <value>
             <Attribute>
@@ -84,6 +91,13 @@
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl20ValidParentheses.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
             </Attribute>
           </value>
         </entry>
@@ -157,6 +171,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl46Permutations.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl485MaxConsecutiveOnes.java">
           <value>
             <Attribute>
@@ -178,7 +199,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\src\leetcode\editor\en\Prbl5LongestPalindromicSubstring.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\src\leetcode\editor\en\Prbl70ClimbingStairs.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\leetcode\editor\en\Prbl7ReverseInteger.java">
           <value>
             <Attribute>
               <option name="separator" value=":" />
@@ -242,6 +277,13 @@
           </value>
         </entry>
         <entry key="\src\lintcode\editor\cn\Prbl5KthLargestElement.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\src\xyz\mijazz\leetcode\utils\ListNode.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

@@ -39,7 +39,7 @@ public class Prbl7ReverseInteger{
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int reverse(int x) {
-        StringBuilder builder = new StringBuilder(new Integer(Math.abs(x)).toString()).reverse();
+        StringBuilder builder = new StringBuilder(Integer.toString(Math.abs(x))).reverse();
         boolean isNegNum = x < 0;
         try {
             x = Integer.parseInt(builder.toString());
