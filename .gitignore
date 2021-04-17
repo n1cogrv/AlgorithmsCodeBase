@@ -25,6 +25,7 @@ hs_err_pid*
 /tmp/*
 /src/leetcode/editor/en/doc/*
 /out
+/target
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839

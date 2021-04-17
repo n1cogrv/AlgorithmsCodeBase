@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/template.idea.leetccode">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="C:\Dev\Lang\OpenJDK\jdk-11.0.8+10\lib\src.zip!\java.base\java\util\PriorityQueue.java">
           <value>
             <Attribute>
