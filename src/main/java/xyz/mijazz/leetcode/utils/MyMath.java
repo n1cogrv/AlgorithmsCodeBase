@@ -1,4 +1,5 @@
-package xyz.mijazz.leetcode.utils;/**
+package xyz.mijazz.leetcode.utils;
+/**
  * @Time 2021-04-10 2:33 PM
  * @Author MijazzChan
  */
