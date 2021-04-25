@@ -16,17 +16,14 @@ package xyz.mijazz.leetcode.bitwiseoperation;
  **/
 public class FlagBitwiseOperation {
 
-    public boolean[] flagsEmulated = new boolean[8];
 
     private byte flags;
 
     public void toggleTrueAt(byte loc) {
-        flagsEmulated[loc] = true;
         flags |= 1 << loc;
     }
 
     public void toggleFalseAt(byte loc) {
-        flagsEmulated[loc] = false;
         flags &= ~(1 << loc);
     }
 

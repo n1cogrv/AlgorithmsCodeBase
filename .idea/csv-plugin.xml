@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/java/leetcode/editor/en/Prbl121BestTimeToBuyAndSellStock.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/java/leetcode/editor/en/Prbl123BestTimeToBuyAndSellStockIII.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/java/leetcode/editor/en/Prbl232ImplementQueueUsingStacks.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/java/xyz/mijazz/leetcode/bitwiseoperation/FlagBitwiseOperation.java">
           <value>
             <Attribute>
@@ -25,6 +46,13 @@
           </value>
         </entry>
         <entry key="/src/main/java/xyz/mijazz/leetcode/utils/ListNode.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/test/java/xyz/mijazz/leetcode/bitwiseoperation/FlagBitwiseOperationTest.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />

@@ -1,7 +1,7 @@
 fileList=()
 problemCount=0
 
-for file in ./src/leetcode/editor/en/*; do
+for file in ./src/main/java/leetcode/editor/en/*; do
   if [ -f "$file" ] && [[ "$file" == *Prbl*.java ]]; then
     fileList=("${fileList[@]}" "$file")
     ((problemCount++))
