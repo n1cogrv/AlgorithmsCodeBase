@@ -24,7 +24,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/main/java/leetcode/editor/en/Prbl141LinkedListCycle.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/main/java/leetcode/editor/en/Prbl232ImplementQueueUsingStacks.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/main/java/leetcode/editor/en/Prbl25ReverseNodesInKGroup.java">
           <value>
             <Attribute>
               <option name="separator" value="," />

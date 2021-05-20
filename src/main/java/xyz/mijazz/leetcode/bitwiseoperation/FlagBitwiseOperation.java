@@ -28,7 +28,7 @@ public class FlagBitwiseOperation {
     }
 
     public boolean isTrueAt(byte loc) {
-        return (flags & (1 << loc)) == 1;
+        return (flags & (1 << loc)) == (1 << loc);
     }
 
 }
