@@ -15,13 +15,13 @@ if [ -f "./table.temp" ]; then
 fi
 
 for eachLeetcode in "${fileList[@]}"; do
-  problemNum=$(echo "$eachLeetcode" | grep -Eo 'Prbl[[:digit:]]{1,5}' | sed 's/Prbl/Problem /' | xargs)
+  problemNum=$(echo "$eachLeetcode" | grep -Eo 'Prbl[[:digit:]]{1,5}' | sed 's/Prbl//' | xargs)
   problemName=$(grep '^//[[:blank:]]*java:' "$eachLeetcode" | cut -d':' -f2 | xargs)
   problemFileName=$(echo "$eachLeetcode" | grep -Eo 'Prbl[[:digit:]]{1,5}[a-zA-Z]*\.java$' | xargs)
   echo -e "| $problemNum | $problemName | [$problemFileName]($eachLeetcode) |" >>./table.temp
 done
 
-sort -k2n -t'|' ./table.temp >>./README.md
+sort -n -k 2 -t'|' ./table.temp >>./README.md
 
 column -t -s'|' ./table.temp
 
@@ -29,11 +29,11 @@ if [ -f "./table.temp" ]; then
   rm "./table.temp"
 fi
 
-git add -A
+git add .
 
 read -r -p "Commit? [y/N] " response
 if [[ "$response" =~ ^([yY][eE][sS]|[yY])$ ]]; then
-  git commit -S -m "$(date) - ProblemCount: $problemCount"
+  git commit -S -m "$(date +%Y%m%d-%H%M%S) - ProblemCount: $problemCount"
   exit 0
 else
   exit 0
