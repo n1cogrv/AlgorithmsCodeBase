@@ -43,7 +43,6 @@ public class Prbl347TopKFrequentElements {
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
         public int[] topKFrequent(int[] nums, int k) {
-
             int maxFrequency = 0;
             // Key   -> Number itself
             // Value -> Number Occur/freq
