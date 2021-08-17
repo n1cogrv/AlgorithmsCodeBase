@@ -347,6 +347,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl1448CountGoodNodesInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/Prbl1448CountGoodNodesInBinaryTree.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl1448CountGoodNodesInBinaryTree.java" />
+              <option name="questionId" value="1544" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl232ImplementQueueUsingStacks.java">
           <value>
             <LeetcodeEditor>
@@ -368,6 +377,24 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl2AddTwoNumbers.java" />
               <option name="questionId" value="2" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl303RangeSumQueryImmutable.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/Prbl303RangeSumQueryImmutable.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl303RangeSumQueryImmutable.java" />
+              <option name="questionId" value="303" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl304RangeSumQuery2DImmutable.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/Prbl304RangeSumQuery2DImmutable.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl304RangeSumQuery2DImmutable.java" />
+              <option name="questionId" value="304" />
             </LeetcodeEditor>
           </value>
         </entry>
