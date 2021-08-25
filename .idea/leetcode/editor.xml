@@ -395,6 +395,15 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl17LetterCombinationsOfAPhoneNumber.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/Prbl17LetterCombinationsOfAPhoneNumber.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl17LetterCombinationsOfAPhoneNumber.java" />
+              <option name="questionId" value="17" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl232ImplementQueueUsingStacks.java">
           <value>
             <LeetcodeEditor>
@@ -467,6 +476,15 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl5LongestPalindromicSubstring.java" />
               <option name="questionId" value="5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl633SumOfSquareNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/Prbl633SumOfSquareNumbers.md" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Prbl633SumOfSquareNumbers.java" />
+              <option name="questionId" value="633" />
             </LeetcodeEditor>
           </value>
         </entry>
