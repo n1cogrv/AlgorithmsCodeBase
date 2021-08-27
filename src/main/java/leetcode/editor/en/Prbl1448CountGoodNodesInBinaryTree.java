@@ -1,6 +1,7 @@
 package leetcode.editor.en;
 
-import javax.swing.tree.TreeNode;
+import xyz.mijazz.leetcode.utils.TreeNode;
+
 import java.util.logging.Logger;
 
 //2021-08-17 16:45:11
